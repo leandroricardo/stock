@@ -21,9 +21,9 @@
     "serviceDiscoveryType": false,
     "buildTool": "maven",
     "enableSwaggerCodegen": false,
-    "jwtSecretKey": "ODU5MTczMmY4N2UxZjBlNjQwMmY5Zjc3YjE1YmVlYTlmYWMyODhlNGU0ZDM5MmQ2ODljMDk3MDZjMDM5YzZhOTQ1YmM5YzI1YmFiZTYwNWRlZGEzYmVhMWM2ZjAxNmY4Y2ZmOTAzNWRlZDdmYTZjOTFjZmM2NTI3Njg0MjIzOGQ=",
+    "jwtSecretKey": "NjhjZjI1NDU1MjBlZmRmMzUyZDY5NWY2OWYwOTkzZTVmYzM3NDg0YjRhNTVmZWI2OWRmODI3MDczY2UxMDhkZGI4ZTAyNDZkN2YwMzcwNTBkYmUyNTQwYmFiNGYyNGE5NmY3YWUxN2I3NTEzYzQ3ZGU0ZmE2ZWRjZTczODhhMTM=",
     "embeddableLaunchScript": false,
-    "creationTimestamp": 1608689779022,
+    "creationTimestamp": 1608767284179,
     "testFrameworks": [],
     "jhiPrefix": "jhi",
     "entitySuffix": "",
@@ -32,7 +32,6 @@
     "enableTranslation": false,
     "clientPackageManager": "npm",
     "blueprints": [],
-    "reactive": true,
     "skipClient": true,
     "skipUserManagement": true
   }
