@@ -1,0 +1,39 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "org.breakingit.stock"
+    },
+    "jhipsterVersion": "6.7.1",
+    "applicationType": "microservice",
+    "baseName": "stock",
+    "packageName": "org.breakingit.stock",
+    "packageFolder": "org/breakingit/stock",
+    "serverPort": "8199",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "no",
+    "devDatabaseType": "no",
+    "prodDatabaseType": "no",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "ODU5MTczMmY4N2UxZjBlNjQwMmY5Zjc3YjE1YmVlYTlmYWMyODhlNGU0ZDM5MmQ2ODljMDk3MDZjMDM5YzZhOTQ1YmM5YzI1YmFiZTYwNWRlZGEzYmVhMWM2ZjAxNmY4Y2ZmOTAzNWRlZDdmYTZjOTFjZmM2NTI3Njg0MjIzOGQ=",
+    "embeddableLaunchScript": false,
+    "creationTimestamp": 1608689779022,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "clientPackageManager": "npm",
+    "blueprints": [],
+    "reactive": true,
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
